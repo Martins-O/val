@@ -1,4 +1,4 @@
-const messages: string[] = [
+export const messages: string[] = [
     "You mean the world to me. Happy Valentine’s Day! 💖",
     "Every moment with you is special. I love you! 🌹",
     "You are my sunshine on the darkest days. 💕",
@@ -19,6 +19,10 @@ const messages: string[] = [
     "I can’t imagine my life without you. 💖",
     "You are my everything. 💕",
     "I love you more than anything in this world. 💓",
+    "You are the missing piece to my puzzle. 🧩",
+    "You make my world brighter every day. 🌟",
+    "I cherish every moment we spend together. 💏",
+    "You are my today and all of my tomorrows. 🌅",
+    "I love you more than coffee, and that’s saying a lot! ☕❤️",
 ];
 
-export default messages;
